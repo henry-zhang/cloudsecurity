@@ -1,4 +1,4 @@
-##for admin-user
+## for admin-user
 # 1.enable iam user for dev&ops team user
 
 https://console.aws.amazon.com/iam/home?region=us-east-2#/home
