@@ -15,3 +15,5 @@ Assigned MFA device
 
 # 4.don't use Root Account in daily works,create iam user for everyone.
 
+# 5.don't share personal account with teams
+
